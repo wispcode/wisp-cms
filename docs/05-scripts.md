@@ -25,4 +25,4 @@ Page scripts run after the page content loads. Keep script files outside the `pa
 
 -----
 
-[Next: Templates >](/docs/06-layouts.md)
+[Next: Templates >](06-layouts.md)

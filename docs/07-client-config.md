@@ -32,10 +32,10 @@ Pages can be written in Markdown instead of HTML. Set `contentExtension` to `"md
 			contentExtension : "md"
 		};
 	</script>
-    
+
 	<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 	<script src="/scripts/wisp.min.js"></script>
 
 -----
 
-[Next: Server-Side Configuration >](/docs/08-server-config.md)
+[Next: Server-Side Configuration >](08-server-config.md)

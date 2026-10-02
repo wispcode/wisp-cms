@@ -23,4 +23,4 @@ _Output_
     
 -----
 
-[Next: Scripts >](/docs/005-scripts.md)
+[Next: Scripts >](005-scripts.md)
