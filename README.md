@@ -19,14 +19,14 @@ A client-side flat-file CMS that conjures Markdown and HTML pages into templates
 
 ## Documentation
 
-1. [Overview](/docs/01-overview.md)
-2. [Sites](/docs/02-sites.md)
-3. [Pages](/docs/03-pages.md)
-4. [Layouts](/docs/04-layouts.md)
-5. [Styles](/docs/05-styles.md)
-6. [Scripts](/docs/06-scripts.md)
-7. [Client-Side Configuration](/docs/07-client-side-configuration.md)
-8. [Server-Side Configuration](/docs/08-server-side-configuration.md)
+1. [Overview](docs/01-overview.md)
+2. [Sites](docs/02-sites.md)
+3. [Pages](docs/03-pages.md)
+4. [Layouts](docs/04-layouts.md)
+5. [Styles](docs/05-styles.md)
+6. [Scripts](docs/06-scripts.md)
+7. [Client-Side Configuration](docs/07-client-config.md)
+8. [Server-Side Configuration](docs/08-server-config.md)
 
 ## Community
 
