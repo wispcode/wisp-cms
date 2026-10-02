@@ -1,0 +1,21 @@
+{
+    "name": "wisp-cms",
+    "version": "1.0.0",
+    "description": "A client-side flat-file CMS that conjures Markdown and HTML pages into templates. No build step, no database, no ghosts in the machine.",
+    "keywords": [
+        "cms",
+        "flat-file-cms",
+        "client-side",
+        "content-loader",
+        "markdown",
+        "html",
+        "template",
+        "no-build",
+        "lightweight"
+    ],	
+    "scripts": {
+		"build": "npx esbuild src/wisp.js --minify --outfile=dist/wisp.min.js"
+	},    
+    "license": "MIT",
+    "author": "Eric Harms"
+}
