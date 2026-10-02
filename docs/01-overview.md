@@ -12,4 +12,4 @@ Wisp is a client-side CMS. There's no backend, database, or admin screen, only s
 
 -----
 
-[Next: Sites >](02-sites.md)
+[Next: Sites >](02-site.md)
