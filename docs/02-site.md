@@ -1,4 +1,4 @@
-Sites
+Site
 ===========================================================
 
 The following is a minimum site structure. Pages are HTML by default; for Markdown, see [Configuration](02-configuration.md).
