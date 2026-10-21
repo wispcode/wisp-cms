@@ -1,6 +1,6 @@
 # Wisp CMS
 
-A client-side flat-file CMS that conjures Markdown and HTML pages into templates. No build step, no database, no ghosts in the machine.
+A client-side content loader and flat-file CMS that conjures Markdown and HTML pages into templates. No build step, no database, no ghosts in the machine.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)

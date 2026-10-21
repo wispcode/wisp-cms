@@ -18,7 +18,7 @@ Define `wispConfig` before loading Wisp to change its defaults. Omitted options 
 |--------------------|---------------------------|-------------------------------------|
 | `contentFolder`    | `"/pages"`                | Folder containing pages.            |
 | `contentExtension` | `"html"`                  | Page format: `"html"` or `"md"`.    |
-| `defaultRoute`     | `"/main/home"`            | Page shown at `/`.                  |
+| `defaultRoute`     | `"/home"`                 | Page shown at `/`.                  |
 | `defaultLayout`    | `"/layouts/default.html"` | Layout for pages without `@layout`. |
 | `rootSelector`     | `"#root"`                 | Element where content appears.      |
 

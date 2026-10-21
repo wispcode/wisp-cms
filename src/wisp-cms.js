@@ -23,7 +23,7 @@
         ...{
             contentFolder       : "/pages",
             contentExtension    : "html",
-            defaultRoute        : "/main/home",
+            defaultRoute        : "/home",
             defaultLayout       : "/layouts/default.html",
             rootSelector        : "#root"
         },
@@ -40,8 +40,8 @@
         //
         const rootElement   = document.querySelector(cmsConfig.rootSelector);
         const pageURL       = `${cmsConfig.contentFolder}${route}.${cmsConfig.contentExtension}`;
-        const pageSource    = await wispFetch(pageURL);
-        const pageConfig    = wispGetPageConfig(pageSource, "<h1>Page not found</h1>");
+        const pageSource    = await wispFetch(pageURL, "<h1>Page not found</h1>");
+        const pageConfig    = wispGetPageConfig(pageSource);
         const pageHTML      = wispRenderContent(pageSource);
         const layoutHTML    = await wispFetch(pageConfig.layout, "{content}");
 
