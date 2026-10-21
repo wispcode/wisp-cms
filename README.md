@@ -14,7 +14,7 @@ A client-side content loader and flat-file CMS that conjures Markdown and HTML p
 - Page settings via comment directives.
 - Templates
 - Per-page scripts and modules.
-- Markdown containers.
+- Markdown containers. 
 - No build tools required.
 
 ## Documentation
