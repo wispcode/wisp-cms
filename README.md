@@ -4,7 +4,7 @@ A client-side content loader and flat-file CMS that conjures Markdown and HTML p
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Size](https://img.shields.io/github/size/wispcode/wisp-cms/dist/wisp.min.css)
+![Size](https://img.shields.io/github/size/wispcode/wisp-cms/dist/wisp-cms.min.css)
 
 ------
 
